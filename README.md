@@ -1,2 +1,2 @@
 # Yara_Rules
-Yara Rules for malware
+Repository holding rules for malware samples I am currently working
